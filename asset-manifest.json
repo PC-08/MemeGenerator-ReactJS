@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MemeGenerator-ReactJS/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/MemeGenerator-ReactJS/static/js/main.5f5fdcef.chunk.js",
+    "main.js.map": "/MemeGenerator-ReactJS/static/js/main.5f5fdcef.chunk.js.map",
+    "runtime-main.js": "/MemeGenerator-ReactJS/static/js/runtime-main.1e2f28da.js",
+    "runtime-main.js.map": "/MemeGenerator-ReactJS/static/js/runtime-main.1e2f28da.js.map",
+    "static/js/2.11f005c5.chunk.js": "/MemeGenerator-ReactJS/static/js/2.11f005c5.chunk.js",
+    "static/js/2.11f005c5.chunk.js.map": "/MemeGenerator-ReactJS/static/js/2.11f005c5.chunk.js.map",
+    "index.html": "/MemeGenerator-ReactJS/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/MemeGenerator-ReactJS/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.11f005c5.chunk.js.LICENSE.txt": "/MemeGenerator-ReactJS/static/js/2.11f005c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2f28da.js",
+    "static/js/2.11f005c5.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.5f5fdcef.chunk.js"
+  ]
+}
